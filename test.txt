@@ -1,0 +1,32 @@
+1(A)	.	 	.	 	 	.	 	.	 	.	Physical Education 9 
+Details about Coppola, John L Coppola, John L - Rm: Gym	A
+98	--	--	--	--	--	 	A
+98	0	0
+1(A)	 	 	 	 	 	 	 	 	 	 	Adolescent Issues 
+Details about Coppola, John L Coppola, John L - Rm: B300	--	--	--	--	--	--	 	--	0	0
+1(B)	 	.	 	 	.	 	.	 	.	 	Help & Access-9 
+Details about Blanco, Javier Blanco, Javier - Rm: B309	--	--	--	--	--	--	 	--	0	0
+2(A)	.	 	.	 	 	.	 	.	 	.	Advanced Geometry 
+Details about Rumen, Rebecca E Rumen, Rebecca E - Rm: 303	B
+83	--	--	--	--	--	 	B
+83	0	0
+2(B)	 	.	 	 	.	 	.	 	.	 	Engineering in the 21st Century 
+Details about Fawcett, Thomas Fawcett, Thomas - Rm: C102	A-
+91	--	--	--	--	--	 	A
+94	0	0
+3(A)	.	 	.	 	 	.	 	.	 	.	Academic American Government 
+Details about Gazzale, Nicholas Gazzale, Nicholas - Rm: A212	A
+95	--	--	--	--	--	 	A
+95	0	0
+3(B)	 	.	 	 	.	 	.	 	.	 	French II 
+Details about McCann, Gabriela J McCann, Gabriela J - Rm: 318	A-
+91	--	--	--	--	--	 	A
+97	0	0
+4(A)	.	 	.	 	 	.	 	.	 	.	Physics I 
+Details about Noble, John Noble, John - Rm: C205	A
+93	--	--	--	--	--	 	A
+93	0	0
+4(B)	 	.	 	 	.	 	.	 	.	 	Academic English I 
+Details about Barter, Rhonda Barter, Rhonda - Rm: C311	A
+93	--	--	--	--	--	 	A
+93	0	0
